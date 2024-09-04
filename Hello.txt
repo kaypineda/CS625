@@ -1,1 +1,3 @@
 Hello, world!
+
+Changing the contents of one file
